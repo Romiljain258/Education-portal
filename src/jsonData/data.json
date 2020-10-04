@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpllvO9KSl49BWp4N-DBeZ--eIqUd01Oqg8g&usqp=CAU",
+        "text1":"Learn Figma",
+        "text2":"by Christopher Morgan",
+        "time":"6h 30min",
+        "rating":4.9,
+        "link":"https://www.youtube.com/watch?v=4W4LvJnNegA"
+    },
+    {
+        "id":2,
+        "image":"https://i.pinimg.com/originals/54/7a/47/547a47ac46bc970126c06b4b991e4021.jpg",
+        "text1":"Analog Photography",
+        "text2":"by Gordon Norman",
+        "time":"3h 15min",
+        "rating":4.7,
+        "link":"https://www.youtube.com/watch?v=YotUW5WcOh8"
+    },
+    {
+        "id":3,
+        "image":"https://thumbs.dreamstime.com/b/new-instagram-camera-logo-icon-vector-modern-gradient-design-illustrations-white-background-new-instagram-camera-logo-icon-136839821.jpg",
+        "text1":"Master Instagram",
+        "text2":"by Sophie Gill",
+        "time":"7h 40min",
+        "rating":4.6,
+        "link":"https://www.youtube.com/watch?v=97gwDbXalBI"
+    },
+    {
+        "id":4,
+        "image":"https://image.freepik.com/free-vector/writting-pencil-design_1095-187.jpg",
+        "text1":"Basics of Drawing",
+        "text2":"by jean Tate",
+        "time":"11h 30min",
+        "rating":4.8,
+        "link":"https://www.youtube.com/watch?v=ewMksAbgdBI"
+    },
+    {
+        "id":5,
+        "image":"https://designrfix.com/wp-content/uploads/2019/07/photoshop-1065296_1920-3-510x510.jpg",
+        "text1":"Photoshop - Essence",
+        "text2":"by David Green",
+        "time":"5h 35min",
+        "rating":4.7,
+        "link":"https://www.youtube.com/watch?v=cpWAnv48L6c"
+    }
+]

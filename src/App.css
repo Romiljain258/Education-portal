@@ -1,0 +1,294 @@
+.App {
+  text-align: center;
+}
+.parent{
+  display: flex;
+  flex-direction: row;
+}
+.toggle{
+  display:none;
+}
+.sidebar{
+   margin-top:20px;
+   margin-left:30px;
+   padding:0;
+   z-index: 1;
+   box-sizing:border-box;
+   font-family: 'poppins', sans-serif;
+   position:fixed;
+   width:90px;
+   height:95%;
+   border-radius: 10px;
+   background-color: black;
+   color:white;
+   transition: 0.5s;
+   overflow: hidden;
+}
+
+.sidebar:hover{
+  width:240px;
+}
+.sidebar ul{
+   position: absolute;
+   top:0;
+   left:0;
+   width:100%;
+}
+.sidebar ul li{
+    position: relative;
+    width:100%;
+    list-style: none;
+}
+.sidebar ul li:hover{
+  background: rgb(242, 242, 250);
+  border-radius: 10px;
+  color:black;
+}
+.sidebar ul li a{
+   position: relative;
+   display: block;
+   width:100%;
+   display: flex;
+   text-decoration: none;
+   color:white;
+}
+.sidebar ul li a:hover{
+  color:black;
+}
+.sidebar ul li a .icon{
+  position: relative;
+  display: block;
+  min-width: 60px;
+  height:60px;
+  line-height: 60px;
+  text-align:left;
+}
+.sidebar ul li a .icon .fa{
+  font-size: 26px;
+}
+.sidebar ul li a .title{
+  position: relative;
+  display: block;
+  padding:0 10px;
+  height:60px;
+  line-height: 60px;
+  text-align:center;
+}
+.secondSec{
+  margin-left:180px;
+}
+.thirdSec{
+  margin-left:100px;
+  margin-right:20px;
+}
+.avtar{
+  display:flex;
+  justify-content: space-between;
+  flex-grow: inherit;
+}
+.Hello-josh{
+  margin-top:20px;
+  margin-left:70px;
+}
+.Hello-josh1{
+   font-weight: 700;
+   font-size:27px;
+}
+.Hello-josh2{
+  font-weight: 400;
+  font-size:18px;
+}
+.flag{
+  width:45px;
+  height:45px;
+  margin:6px;
+}
+.card{
+  margin-top: 15px;
+}
+.card:hover{
+  box-shadow:2px 2px 5px gray;
+}
+.hello-josh{
+  margin-top: 27px;
+  font-weight: 700;
+  margin-left:40px;
+}
+.img{
+  width:120px;
+  margin-left:120px;
+}
+.img-book{
+  width:120px;
+  height:120px;
+  margin-left:70px;
+}
+.font1{
+  margin:4px;
+  font-weight: 700;
+  font-size:14px;
+}
+.font2{
+  margin:4px;
+  font-size:12px;
+}
+.text-btn{
+  background-color: black;
+  color:white;
+  border:1px solid black;
+  height:30px;
+  border-radius:5px;
+  margin:8px;
+}
+.view-course{
+  color:black;
+}
+.view-course:hover{
+   color:black;
+   text-decoration:none;
+}
+.text-btn1{
+  background-color:#F5F5F7;
+  color:black;
+  border:2px solid black;
+  height:33px;
+  font-weight: 600;
+  border-radius:5px;
+  margin:6px;
+  cursor:pointer;
+}
+.left-arrow{
+  font-size: 30px;
+  margin:6px;
+  cursor:pointer;
+}
+.text-btn-p{
+  margin:6px;
+}
+.left-right{
+  margin:6px;
+}
+.right-arrow{
+  font-size: 30px;
+  margin:6px;
+  cursor:pointer;
+}
+.course-text{
+  color:black;
+  font-size:26px;
+  font-weight: bolder;
+  text-align:left;
+  margin-top:20px;
+}
+.card{
+  background-color:#F5F5F7;
+  border-radius:13px;
+}
+.fa-clock-o{
+  color:black;
+  margin:12px;
+}
+.time{
+  margin-left:6px;
+  font-weight: 600;
+}
+.rating{
+  margin-left:6px;
+  font-weight: 600;
+}
+
+.fa-star-half-o{
+  color:black;
+  margin:12px;
+ font-weight: 700;
+}
+.list-of-card{
+  padding-top:4px;
+  padding-bottom:4px;
+}
+
+.flex{
+  display: flex;
+}
+.course1{
+  font-size:45px;
+  padding-left:13px;
+  padding-right: 13px;
+  cursor: pointer;
+}
+.course2{
+  font-size:23px;
+  font-weight: 400;
+  cursor: pointer;
+}
+.flex-margin{
+  margin:20px;
+  padding:8px;
+  width: 206px;
+  height:80px;
+}
+
+
+.input-p{
+  margin-top:15px;
+  margin-left:20px;
+}
+.input{
+width: 300px;
+height: 35px;
+border-radius:4px;
+border:1px solid #f4f4f5;
+background:#f4f4f5;
+color:black;
+font-weight: 600;
+padding-left:30px;
+}
+.fa-bell-o{
+  font-size:26px;
+  margin-left:25px;
+  margin-right:25px;
+  cursor:pointer;
+}
+.fa-user-margin{
+  font-size:26px;
+  cursor:pointer;
+}
+.input-Container i {
+  position: absolute;
+  margin-top:10px;
+  margin-left:10px;
+}
+.card-book{
+  margin-left:40px;
+}
+.book-text{
+  margin-top:10px;
+  margin-left:15px;
+  margin-bottom:10px;
+}
+.statistics-text{
+  text-align: left;
+  font-weight: 700;
+  margin-top: 2px;
+}
+.statistics{
+  margin-left:20px;
+  margin-bottom:220px;
+  height:160px;
+  width:600px;
+}
+.toggle{
+  position:fixed;
+  right:0;
+  width:50px;
+  height:40px;
+  background:black;
+  cursor:pointer;
+  z-index:1;
+  font-size: 26px;
+  color:white;
+}
+.toggle:hover{
+  content:'\f0c9';
+  color:rgb(168, 164, 164);
+}

@@ -1,0 +1,551 @@
+@media only screen and (max-width:1450px){
+  .toggle{
+    display:none;
+  }
+    .secondSec{
+        margin-left:160px;
+      }
+      .thirdSec{
+        margin-left:90px;
+      }
+}
+@media only screen and (max-width:1360px){
+  .toggle{
+    display:none;
+  }
+      .thirdSec{
+        margin-left:40px;
+      }
+      .statistics{
+        margin-left:20px;
+        margin-bottom:220px;
+        height:160px;
+        width:550px;
+      }
+}
+@media only screen and (max-width:1310px){
+  .toggle{
+    display:none;
+  }
+  .statistics{
+    height:140px;
+    width:540px;
+  }
+    .secondSec{
+        margin-left:140px;
+      }
+      .thirdSec{
+        margin-left:20px;
+      }
+      .list-of-card{
+        padding-top:6px;
+        padding-bottom:6px;
+      }
+      .flag{
+        width:40px;
+        height:40px;
+        margin:6px;
+      }
+      .font1{
+        margin:6px;
+        font-size: 14px;
+      }
+      .font2{
+        margin:6px;
+        font-size: 11px;
+      }
+      .fa-clock-o{
+        margin:10px;
+      }
+      .time{
+        margin-left:4px;
+        font-size: 13px;
+      }
+      .rating{
+        margin-left:3px;
+        font-size: 14px;
+      }
+      .eighty{
+        margin-top: 10px;
+      }
+      .fa-star-half-o{
+        margin:10px;
+        font-size: 14px;
+      }
+      .text-btn1{
+        height:30px;
+        margin:8px;
+        overflow: none;
+      }
+      .text-btn1{
+        overflow: hidden;
+      }
+}
+@media only screen and (max-width:1140px){
+  .toggle{
+    display:none;
+  }
+  .statistics{
+    height:290px;
+    width:500px;
+  }
+    .secondSec{
+        margin-left:134px;
+      }
+      .thirdSec{
+        margin-left:8px;
+      }
+      .Hello-josh{
+        margin-top:10px;
+        margin-left:30px;
+      }
+      .Hello-josh1{
+         font-size:17px;
+         font-weight: 700;
+      }
+      .Hello-josh2{
+        font-weight: 600;
+        font-size:14px;
+      }
+      .img{
+        width:120px;
+        margin-left:55px;
+      }
+      .list-of-card{
+        padding-top:5px;
+        padding-bottom:5px;
+      }
+      .flag{
+        width:35px;
+        height:35px;
+        margin:6px;
+      }
+      .font1{
+        margin:4px;
+        font-size: 14px;
+      }
+      .font2{
+        margin:4px;
+        font-size: 11px;
+      }
+      .fa-clock-o{
+        color:black;
+        margin:6px;
+      }
+      .time{
+        margin-left:3px;
+        font-size: 13px;
+      }
+      .rating{
+        margin-left:3px;
+        font-size: 14px;
+      }
+      .eighty{
+        margin-top: 8px;
+      }
+      .fa-star-half-o{
+        color:black;
+        margin:10px;
+        font-size: 14px;
+      }
+      .text-btn1{
+        height:25px;
+        font-weight: 600;
+        margin:6px;
+        width:70px;
+        overflow: hidden;
+      }
+      .course1{
+        font-size:40px;
+        padding-left:12px;
+        padding-right: 12px;
+      }
+      .course2{
+        font-size:22px;
+        font-weight: 400;
+      }
+      .flex-margin{
+        margin:15px;
+        padding:8px;
+        width: 180px;
+        height: 80px;
+      }     
+      .card-book{
+        margin-left:30px;
+      }
+      .statistics-text{
+        margin-top: 5px;
+      }
+      .statistics{
+        margin-top:30px;
+        margin-bottom:40px;
+        margin-left:20px;
+      }
+      .img-book{
+        height:120px;
+      }
+      .left-arrow{
+        font-size: 20px;
+        margin:5px;
+      }
+      .text-btn-p{
+        margin:5px;
+      }
+      .right-arrow{
+        font-size: 20px;
+        margin:5px;
+      }
+      .text-btn1{
+        overflow: hidden;
+      }
+}
+@media only screen and (max-width:955px){
+  .toggle{
+    display:none;
+  }
+  .statistics{
+    height:260px;
+    width:400px;
+  }
+      .Hello-josh{
+        margin-top:6px;
+        margin-left:10px;
+      }
+      .Hello-josh1{
+         font-size:17px;
+         font-weight: 700;
+      }
+      .Hello-josh2{
+        font-weight: 600;
+      }
+      .img{
+        width:90px;
+        margin-left:30px;
+      }
+      .list-of-card{
+        padding-top:4px;
+        padding-bottom:4px;
+      }
+      .flag{
+        width:30px;
+        height:30px;
+        margin:5px;
+      }
+      .font1{
+        margin:4px;
+        font-size: 12px;
+      }
+      .font2{
+        margin:4px;
+        font-size: 10px;
+      }
+      .fa-clock-o{
+        color:black;
+        margin:5px;
+      }
+      .time{
+        margin-left:3px;
+        font-size: 12px;
+      }
+      .rating{
+        margin-left:3px;
+        font-size: 13px;
+      }
+      .eighty{
+        margin-top: 6px;
+      }
+      .fa-star-half-o{
+        color:black;
+        margin:8px;
+        font-size: 13px;
+      }
+      .text-btn1{
+        height:25px;
+        margin:4px;
+        width:70px;
+        overflow: hidden;
+      }
+      .course1{
+        font-size:30px;
+        padding-left:8px;
+        padding-right:8px;
+      }
+      .course2{
+        font-size:18px;
+      }
+      .flex-margin{
+        margin:10px;
+        margin-left:20px;
+        padding:5px;
+        width: 140px;
+        height: 60px;
+      }     
+      .statistics-text{
+        margin-top: 4px;
+      }
+      .statistics{
+        margin-top:20px;
+        margin-bottom:30px;
+        margin-left:20px;
+      }
+      .left-arrow{
+        font-size: 20px;
+        margin:5px;
+      }
+      .text-btn-p{
+        margin:5px;
+      }
+      .right-arrow{
+        font-size: 20px;
+        margin:5px;
+      }
+      .input-p{
+        margin-top:20px;
+      }
+      .input{
+      width: 240px;
+      height: 35px;
+      }
+      .book-text{
+        margin-top:4px;
+        margin-left:8px;
+        margin-bottom:6px;
+      }
+      .img-book{
+        width:100px;
+        margin-left:30px;
+      }
+      .card-book{
+        margin-left:30px;
+        
+      }
+
+}
+@media only screen and (max-width:760px){
+  .sidebar{
+    display:none;
+  }
+  .toggle{
+    display:block;
+  }
+  .statistics{
+    height:400px;
+    width:550px;
+  }
+    .parent{
+        display: flex;
+        width:100%;
+        flex-direction: column;
+      }
+      .secondSec{
+        margin-left: 20px;
+        margin-right:20px;
+    }
+      .thirdSec{
+        margin-left:20px;
+        margin-right: 20px;
+      }
+
+     .Hello-josh{
+        margin-top:10px;
+        margin-left:40px;
+      }
+      .Hello-josh1{
+         font-size:40px;
+         font-weight: 700;
+      }
+      .Hello-josh2{
+        font-size:20px;
+        font-weight: 600;
+      }
+      .img{
+        width:140px;
+      }
+      .list-of-card{
+        padding-top:10px;
+        padding-bottom:10px;
+      }
+      .flag{
+        width:40px;
+        height:40px;
+        margin:4px;
+      }
+      .font1{
+        margin:4px;
+        font-size: 16px;
+      }
+      .font2{
+        margin:4px;
+        font-size: 12px;
+      }
+      .fa-clock-o{
+        color:black;
+        margin:6px;
+      }
+      .time{
+        margin-left:5px;
+        font-size: 14px;
+      }
+      .rating{
+        margin-left:4px;
+        font-size: 15px;
+      }
+      .eighty{
+        margin-top: 6px;
+      }
+      .fa-star-half-o{
+        color:black;
+        margin:10px;
+        font-size: 15px;
+      }
+      .text-btn1{
+        height:30px;
+        margin:4px;
+        width:70px;
+        overflow: hidden;
+      }
+      .course1{
+        font-size:35px;
+        padding-left:10px;
+        padding-right:10px;
+      }
+      .course2{
+        font-size:22px;
+      }
+      .flex-margin{
+        margin:10px;
+        margin-top:20px;
+        margin-left:20px;
+        padding:5px;
+        width: 180px;
+        height: 70px;
+      }     
+      .statistics-text{
+        margin-top: 4px;
+      }
+      .statistics{
+          margin-left:15px;
+          margin-right:20px;
+      }
+      .left-arrow{
+        font-size: 20px;
+        margin:5px;
+      }
+      .text-btn-p{
+        margin:5px;
+      }
+      .right-arrow{
+        font-size: 20px;
+        margin:5px;
+      }
+      .input-Container i {
+        margin-top:40px;
+      }
+      .fa-bell-o{
+        margin-top:35px;
+      }
+      .fa-user-margin{
+        margin-top:35px;
+      }
+      .input{
+      margin-top:30px;  
+      }
+      .book-text{
+        margin-top:4px;
+        margin-left:8px;
+        margin-bottom:6px;
+      }
+      .img-book{
+        width:100px;
+        margin-left:30px;
+      }
+      .input-p{
+        margin-top:35px;
+      }
+      .input{
+        border:2px solid black;
+        }
+      .card-book{
+        margin-left:30px;
+        margin-right:20px;
+      }
+}
+@media only screen and (max-width:500px){
+  .toggle{
+    display:block;
+  }
+   
+  .secondSec{
+    margin-left:10px;
+    margin-right:10px;
+  }
+  .thirdSec{
+    margin-left:10px;
+    margin-right:10px;
+  }
+  .sidebar{
+    margin-top:15px;
+    margin-left:10px;
+  }
+  .Hello-josh{
+    margin-top:10px;
+    margin-left:40px;
+  }
+  .Hello-josh1{
+     font-weight: 700;
+     font-size:28px;
+  }
+  .Hello-josh2{
+    font-weight: 600;
+    font-size:20px;
+  }
+  .card{
+    width:100%;
+  }
+  .course1{
+    font-size:25px;
+  }
+  .course2{
+    font-size:16px;
+    font-weight: 500;
+  }
+  .flex-margin{
+    padding-left:10px;
+    padding-right: 130px;
+    margin-left:20px;
+
+  }
+  .card-book{
+    width:90%;
+  }
+  .card-m{
+    margin-left:25px;
+  }
+  .img-book{
+    width:100px;
+    height:100px;
+    margin-left:30px;
+  }
+  .book-text{
+    margin-top:10px;
+    margin-left:10px;
+  }
+  .input-p{
+      margin-left:32px;
+    }
+  .statistics-text{
+    margin-top: 10px;
+    text-align: left;
+    font-weight: 600;
+  }
+  .statistics{
+    margin-bottom:220px;
+    height:100px;
+    width:400px;
+  }
+}
+@media only screen and (max-width:370px){
+  .card{
+    width:400px;
+  }
+}
